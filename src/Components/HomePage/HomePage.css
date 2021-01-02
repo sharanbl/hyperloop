@@ -1,0 +1,63 @@
+.HomePage {
+    width: 100wh;
+    height: 100vh;
+    background-color: #212121;
+}
+
+#IITH {
+    text-align: center;
+    color: floralwhite;
+    
+}
+
+#startbtn {
+    width: 100px;
+    float: right;
+    margin-right: 100px;
+}
+
+#stopbtn {
+    width: 80px;
+    margin-top: 10px;
+}
+
+#rpm {
+    /* margin-left: 250px; */
+    align-items: center;
+    height: 200px;
+    /* margin-left: 15rem; */
+    margin-left: 25%;
+}
+
+#speedup {
+    width: 80px;
+    /* margin-left: 375px; */
+    /* margin-left: 22.5rem; */
+    margin-left: 450%;
+}
+
+#speeddown {
+    width: 80px;
+    /* margin-left: 375px; */
+    /* margin-left: 22.5rem; */
+    margin-left: 450%;
+}
+
+/* #speedicon {
+    margin-top: -70px;
+} */
+
+#rpmcontainer {
+    height: 300px;
+}
+
+#rpmtext {
+    color: floralwhite;
+    /* margin-top: -120px; */
+    margin-left: 120px;
+}
+
+#meters {
+    color: floralwhite;
+    text-align: center;
+}
